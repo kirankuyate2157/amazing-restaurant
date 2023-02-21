@@ -1,11 +1,12 @@
 import React from "react";
 import "./app.css";
+import Navbar from "./components/navbar/Navbar";
 
 const App = () => {
   return (
     <>
       <div>
-        <h1>hellow world </h1>
+        <Navbar />
       </div>
     </>
   );
