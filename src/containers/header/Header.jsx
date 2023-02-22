@@ -9,9 +9,8 @@ const Header = () => (
       <SubHeading title="Chase the new flavour" />
       <h1 className="app__header-h1">The Key To Fine Dining</h1>
       <p className="p__opensans" style={{ margin: "2rem 0" }}>
-        Sit tellus lobortis sed senectus vivamus molestie. Condimentum volutpat
-        morbi facilisis quam scelerisque sapien. Et, penatibus aliquam amet
-        tellus
+        Let it be the land, but let us live in old age. Seasoning of the disease
+        is easier than chocolate. And, in the end, there is a lot of ground
       </p>
       <button type="button" className="custom__button">
         Explore Menu
