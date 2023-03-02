@@ -4,6 +4,7 @@ import Navbar from "./components/navbar/Navbar";
 import AboutUs from "./containers/aboutUs/AboutUs";
 import Chef from "./containers/chef/Chef";
 import Header from "./containers/header/Header";
+import Intro from "./containers/intro/Intro";
 import Menu from "./containers/menu/Menu";
 
 const App = () => {
@@ -15,6 +16,7 @@ const App = () => {
         <AboutUs />
         <Menu />
         <Chef />
+        <Intro />
       </div>
     </>
   );
