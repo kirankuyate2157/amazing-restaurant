@@ -1,3 +1,5 @@
+till now working on design impl..
+
 ### design: 
 ![Screenshot 2023-02-21 at 21-08-54 Figma](https://user-images.githubusercontent.com/84271800/220391367-59f1ee7c-1d3e-4756-a6e4-478b051e544c.png)
 ![Screenshot 2023-02-21 at 21-09-21 Figma](https://user-images.githubusercontent.com/84271800/220391391-158ca921-e48f-42da-8e88-88235517b1ff.png)
