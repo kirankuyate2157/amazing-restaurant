@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { gericht } from "../../constants/images";
+import { images } from "../../constants";
 import { GiHamburgerMenu } from "react-icons/gi";
 import { MdOutlineRestaurantMenu } from "react-icons/md";
 import "./navbar.css";
@@ -9,7 +9,7 @@ const Navbar = () => {
   return (
     <nav className="app__navbar">
       <div className="app__navbar-logo">
-        <img src={gericht} alt="logo" />
+        <img src={images.gericht} alt="logo" />
       </div>
       <ul className="app__navbar-links">
         <li className="p__opensans">
