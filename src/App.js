@@ -1,5 +1,5 @@
 import React from "react";
-import "./app.css";
+
 import Navbar from "./components/navbar/Navbar";
 import AboutUs from "./containers/aboutUs/AboutUs";
 import Awards from "./containers/awards/Awards";
@@ -10,7 +10,7 @@ import Header from "./containers/header/Header";
 import Intro from "./containers/intro/Intro";
 import Location from "./containers/location/Location";
 import Menu from "./containers/menu/Menu";
-
+import "./App.css";
 const App = () => {
   return (
     <>
